@@ -360,7 +360,6 @@ ul.featured-sm li img {
 }
 /*====Default Section Styles ====*/
 .section-outcomes {
-    padding: 90px 0;
     background-repeat: repeat;
     background-size: 100%;
     background-position-x: -150px;
@@ -1450,10 +1449,10 @@ a.create-sheet:hover {
 	}
 	.section-title h2 {
 		font-size:2.5em;
-		text-align: left;
+		text-align: center;
 	}
 	.section-title h4 {
-		text-align: left;
+		text-align: center;
 		width: 100%;
 	}
 
@@ -1520,6 +1519,11 @@ a.create-sheet:hover {
 	}
 	.program-title {
 		margin:0;
+	}
+
+	.footer .footer-links {
+		text-align: left;
+		width: 100%;
 	}
 	.mock-int-card {
 		padding: 10px 20px 15px 20px;
